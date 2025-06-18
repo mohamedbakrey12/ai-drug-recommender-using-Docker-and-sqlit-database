@@ -1,6 +1,5 @@
 ## 📄 `README.md`
 
-markdown
 # 💊 AI Drug Recommender by using Docker and SQLite 
 
 A Streamlit-based AI application that predicts the most appropriate drug for a patient based on input medical information. The model is trained using the `drug200.csv` dataset and leverages a Random Forest classifier.
