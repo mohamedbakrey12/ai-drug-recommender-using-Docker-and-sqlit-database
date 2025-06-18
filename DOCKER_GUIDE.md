@@ -1,8 +1,4 @@
 
-
-## 📄 ملف: `DOCKER_GUIDE.md`
-
-````markdown
 # 🐳 Docker Usage Guide for AI Drug Recommender App
 
 This file documents all the Docker-related commands and configurations used in this project—from basics to advanced usage with volumes and environment variables.
